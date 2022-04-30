@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kimia Abdi
 - 👀 I’m interested in Storage Systems, OS, ML
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kimia.abdi@sharif.edu
 
 <!---
